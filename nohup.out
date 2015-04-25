@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "main.py", line 5, in <module>
+    from lib.FlushFMLCD.lib.LCDController import LCD
+  File "/home/pi/RadioAndDisplaySwitch/lib/FlushFMLCD/lib/LCDController.py", line 3, in <module>
+    from i2c_lcd_patched import i2c_lcd
+  File "/home/pi/RadioAndDisplaySwitch/i2c_lcd_patched.py", line 3, in <module>
+    from lib.i2clibraries import i2c_lcd as i2c_lcd_prev
+ImportError: No module named i2clibraries
