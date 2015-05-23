@@ -1,0 +1,3 @@
+[submodule "lib/FlushFMLCD"]
+	path = lib/FlushFMLCD
+	url = https://github.com/speendo/raspi-mpd-lcd.git
