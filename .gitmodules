@@ -1,3 +1,6 @@
-[submodule "lib/FlushFMLCD"]
-	path = lib/FlushFMLCD
-	url = https://github.com/speendo/raspi-mpd-lcd.git
+[submodule "lib/mpd_lcd"]
+	path = lib/mpd_lcd
+	url = https://github.com/speendo/raspi-mpd-lcd
+[submodule "lib/photocell"]
+	path = lib/photocell
+	url = git@github.com:speendo/photocell.git
