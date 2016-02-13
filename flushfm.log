@@ -1,0 +1,55 @@
+2016-02-13 23:40:21,252 INFO: Log started
+2016-02-13 23:40:21,255 INFO: Attempt to (re-)connect to mpd server
+2016-02-13 23:40:21,257 INFO: Calling MPD connect('localhost', 6600, timeout=None)
+2016-02-13 23:40:21,317 INFO: Finished attempt to (re-)connect to mpd server
+2016-02-13 23:40:21,319 INFO: <bound method MPDClient.decorator of <mpd.MPDClient object at 0xb69aa7f0>>
+2016-02-13 23:40:21,321 INFO: Initialize LCD.
+2016-02-13 23:40:21,323 INFO: LCD: Backlight on.
+2016-02-13 23:40:21,325 INFO: LCD: loading locale.
+2016-02-13 23:40:21,328 INFO: LCD: connecting to I2C (Address: 39)
+2016-02-13 23:40:21,361 INFO: LCD: Attempting to store character "Ü" to memory slot 0
+2016-02-13 23:40:21,375 INFO: LCD: Attempting to store character "Ö" to memory slot 1
+2016-02-13 23:40:21,389 INFO: LCD: Attempting to store character "Ä" to memory slot 2
+2016-02-13 23:40:21,413 INFO: Setup LCD with 4 lines, 20 columns and locale_de
+2016-02-13 23:40:21,416 INFO: Line 1: TimeLine
+2016-02-13 23:40:21,420 INFO: Calling MPD connect('localhost', 6600, timeout=None)
+2016-02-13 23:40:21,429 INFO: Line 2: MPDLine (name)
+2016-02-13 23:40:21,432 INFO: Calling MPD connect('localhost', 6600, timeout=None)
+2016-02-13 23:40:21,442 INFO: Line 3: MPDLine (title)
+2016-02-13 23:40:21,467 INFO: Line 4: Fetch Proverb
+2016-02-13 23:40:21,530 DEBUG: Calling MPD currentsong()
+2016-02-13 23:40:21,547 DEBUG: Calling MPD currentsong()
+2016-02-13 23:40:21,749 INFO: Try to export epoll pin.
+2016-02-13 23:40:21,926 INFO: Exported epoll pin.
+2016-02-13 23:40:21,932 INFO: Detected epoll event.
+2016-02-13 23:40:21,935 INFO: light turned on.
+2016-02-13 23:40:21,938 INFO: Try to resume MPD client.
+2016-02-13 23:40:21,940 DEBUG: Calling MPD play()
+2016-02-13 23:40:21,945 INFO: Try to resume LCD.
+2016-02-13 23:40:23,970 INFO: Detected epoll event.
+2016-02-13 23:40:23,974 INFO: light turned off.
+2016-02-13 23:40:23,976 INFO: Try to stop MPD client.
+2016-02-13 23:40:23,979 DEBUG: Calling MPD stop()
+2016-02-13 23:40:23,995 INFO: Try to standby LCD.
+2016-02-13 23:40:24,000 INFO: Detected epoll event.
+2016-02-13 23:40:24,615 INFO: Detected epoll event.
+2016-02-13 23:40:24,618 INFO: light turned on.
+2016-02-13 23:40:24,620 INFO: Try to resume MPD client.
+2016-02-13 23:40:24,623 DEBUG: Calling MPD play()
+2016-02-13 23:40:24,628 INFO: Try to resume LCD.
+2016-02-13 23:40:24,634 DEBUG: Calling MPD currentsong()
+2016-02-13 23:40:24,643 INFO: Detected epoll event.
+2016-02-13 23:40:26,358 INFO: Detected epoll event.
+2016-02-13 23:40:26,362 INFO: light turned off.
+2016-02-13 23:40:26,364 INFO: Try to stop MPD client.
+2016-02-13 23:40:26,367 DEBUG: Calling MPD stop()
+2016-02-13 23:40:26,381 INFO: Try to standby LCD.
+2016-02-13 23:40:26,385 INFO: Detected epoll event.
+2016-02-13 23:40:26,894 INFO: Detected epoll event.
+2016-02-13 23:40:26,897 INFO: light turned on.
+2016-02-13 23:40:26,899 INFO: Try to resume MPD client.
+2016-02-13 23:40:26,902 DEBUG: Calling MPD play()
+2016-02-13 23:40:26,907 INFO: Try to resume LCD.
+2016-02-13 23:40:26,913 DEBUG: Calling MPD currentsong()
+2016-02-13 23:40:26,923 INFO: Detected epoll event.
+2016-02-13 23:40:28,375 INFO: unexporting epoll pin.
